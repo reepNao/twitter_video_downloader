@@ -34,3 +34,8 @@ python twitter_mp4_downloader.py <URL>
 Replace `<URL>` with the URL of the Twitter video you want to download.
 
 4. If you want to specify a custom name for the downloaded video, you will be prompted to enter it. Otherwise, the default name will be used.
+
+
+## Notes
+
+- This script relies on the twitsave.com service to fetch video information from Twitter. If the service is down or changes its structure, the script may not work as expected.
